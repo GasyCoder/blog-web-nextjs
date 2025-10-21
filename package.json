@@ -14,7 +14,7 @@
     "clsx": "^2.1.1",
     "date-fns": "^3.6.0",
     "lucide-react": "^0.379.0",
-    "next": "14.2.0",
+    "next": "14.2.32",
     "react": "^18.3.0",
     "react-dom": "^18.3.0",
     "react-hook-form": "^7.51.3",
